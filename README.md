@@ -17,7 +17,9 @@
 
 Esse é o arquivo `README.md` do repositório para o processo trainee da byron.solutions  
 
-> "O git é legal e bastante útil!!!"  -  Tiago 
+> "O git é legal e bastante útil!!!"  -  Tiago  
+
+> "Esse README é 500x mais performático que um README normal porque tem GIF de anime"  -  Joel 
 
 ## 📜 Índice
 
