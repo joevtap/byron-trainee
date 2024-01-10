@@ -5,16 +5,13 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://media1.tenor.com/m/A-SdD3G9q6oAAAAC/new-game-mozuku.gif" alt="hello" width="150" height="150" style="object-fit: cover;"/>  
+        <img src="https://media1.tenor.com/m/A-SdD3G9q6oAAAAC/new-game-mozuku.gif" alt="hello" width="150" height="150" />  
       </td>
       <td>
-        <img src="https://media1.tenor.com/m/vAV-hN7jXEUAAAAC/hi.gif" alt="hello" width="150" height="150" style="object-fit: cover;"/>  
+        <img src="https://media1.tenor.com/m/xCv9kpxFGEYAAAAd/anya-forger.gif" alt="hello" width="150" height="150" />  
       </td>
       <td>
-        <img src="https://media1.tenor.com/m/xCv9kpxFGEYAAAAd/anya-forger.gif" alt="hello" width="150" height="150" style="object-fit: cover;"/>  
-      </td>
-      <td>
-        <img src="https://media1.tenor.com/m/dtT7TYvgqx0AAAAd/frieren-smug-frieren.gif" alt="hello" width="150" height="150" style="object-fit: cover;"/>  
+        <img src="https://media1.tenor.com/m/dtT7TYvgqx0AAAAd/frieren-smug-frieren.gif" alt="hello" width="150" height="150" />  
       </td>
     </tr>
   </tbody>
