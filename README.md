@@ -1,21 +1,15 @@
 
 # 👋 Hello word!
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://media1.tenor.com/m/A-SdD3G9q6oAAAAC/new-game-mozuku.gif" alt="hello" width="150" height="150" />  
-      </td>
-      <td>
-        <img src="https://media1.tenor.com/m/xCv9kpxFGEYAAAAd/anya-forger.gif" alt="hello" width="150" height="150" />  
-      </td>
-      <td>
-        <img src="https://media1.tenor.com/m/dtT7TYvgqx0AAAAd/frieren-smug-frieren.gif" alt="hello" width="150" height="150" />  
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div float="left">
+  <img src="https://media1.tenor.com/m/A-SdD3G9q6oAAAAC/new-game-mozuku.gif" alt="hello" width="20%"  align="top"/>  
+
+  <img src="https://media1.tenor.com/m/xCv9kpxFGEYAAAAd/anya-forger.gif" alt="hello" width="20%" align="top"/>  
+
+  <img src="https://media1.tenor.com/m/dtT7TYvgqx0AAAAd/frieren-smug-frieren.gif" alt="hello" width="20%" align="top" />  
+</div>
+
+<br />
 
 Esse é o arquivo `README.md` do repositório para o processo trainee da byron.solutions  
 
@@ -34,7 +28,7 @@ Esse é o arquivo `README.md` do repositório para o processo trainee da byron.s
 - [ ] Adicionar todos os colaboradores do repositório
   - [x] Joel
   - [ ] Tiago
-- [ ] Configurar o github pages para exibir o `README.md`
+- [x] Configurar o github pages para exibir o `README.md`
 - [x] Adicionar imagens e coisinhas bonitinhas tipo emojis no `README` (o código fica 10x mais rápido)
   - [x] GIF (+100ms de performance)
     - [x] Se for de anime é +200ms
