@@ -27,10 +27,11 @@ Esse é o arquivo `README.md` do repositório para o processo trainee da byron.s
   - [📜 Índice](#-índice)
   - [📝 TODO](#-todo)
   - [🤝 Colaboradores](#-colaboradores)
+  - [⚠️ Criando um merge conflict](#️-criando-um-merge-conflict)
 
 ## 📝 TODO
 
-- [ ] Descrição mais detalhada do repositório
+- [x] Descrição mais detalhada do repositório
 - [x] Adicionar índice
 - [x] Configurar regras de push e merge em `main` e `develop` (somente PR são permitidos)
 - [x] Adicionar todos os colaboradores do repositório
@@ -65,6 +66,9 @@ Esse é o arquivo `README.md` do repositório para o processo trainee da byron.s
   </tbody>
 </table>
 
+## ⚠️ Criando um merge conflict
 
+[Clique-me](https://youtu.be/dQw4w9WgXcQ)
 
- <img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" alt="hello" width="20%" align="top" />
+<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" alt="hello" width="20%" align="top" />
+
