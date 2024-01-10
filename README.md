@@ -41,22 +41,18 @@ Esse é o arquivo `README.md` do repositório para o processo trainee da byron.s
     <tr>
       <td align="left" valign="top">
         <a href="https://github.com/joevtap">
-          <img src="https://github.com/joevtap.png" width="100;" alt="joevtap"/>
+          <img src="https://github.com/joevtap.png" width="100" alt="joevtap"/>
           <br />
           <b>Joel Torres</b>
         </a>
       </td>
-      <!-- 
-      Siga esse padrão, substitua <seu nick> e <seu nome> pelo equivalente
-
       <td align="left" valign="top">
-        <a href="https://github.com/<seu nick>">
-          <img src="https://github.com/<seu nick>.png" width="100;" alt="<seu nick>"/>
+        <a href="https://github.com/Tiago-htm">
+          <img src="https://github.com/Tiago-htm.png" width="100" alt="Tiago-htm"/>
           <br />
-          <b><seu nome></b>
+          <b>Tiago-htm</b>
         </a>
       </td> 
-      -->
     </tr>
   </tbody>
 </table>
