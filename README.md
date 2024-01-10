@@ -68,6 +68,6 @@ Esse é o arquivo `README.md` do repositório para o processo trainee da byron.s
 
 ## ⚠️ Criando um merge conflict
 
-[Clique-me](https://youtu.be/dQw4w9WgXcQ)
+[![](./merge-conflict.png)](https://youtu.be/dQw4w9WgXcQ)
 
-> Agora esse comentário vai ser sobrescrito
+
