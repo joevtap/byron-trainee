@@ -68,7 +68,6 @@ Esse é o arquivo `README.md` do repositório para o processo trainee da byron.s
 
 ## ⚠️ Criando um merge conflict
 
-[Clique-me](https://youtu.be/dQw4w9WgXcQ)
+[![](./merge-conflict.png)](https://youtu.be/dQw4w9WgXcQ)
 
-<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" alt="hello" width="20%" align="top" />
 
